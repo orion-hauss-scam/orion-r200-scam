@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+## Orion Projectors is a scam
 
-You can use the [editor on GitHub](https://github.com/orion-hauss-scam/orion-r200-scam/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This is a scam. It is not a high end projector brand. It is a Chinese knockoff. Worthless $0
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Orion R200 or R800 are both Chinese junk projectors. They are NOT worth $1000's that the scammer is suggesting. AVOID
 
-### Markdown
+## Orion Projectors are WORTHLESS
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Don't throw away your money on junk thinking you are getting a good deal.
 
-```markdown
-Syntax highlighted code block
+These Chinese versions are made with cheap and dangerous materials.
 
-# Header 1
-## Header 2
-### Header 3
+## The bulb contain mercury and are known to start fires!
 
-- Bulleted
-- List
+The reason you cannot find any other information about it besides a FAKE brand website is because these are knock offs. They create a fake brand website to trick you into thinking it is legit. This is FAKE!
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+This is called the "white van" scam. You can read more about how scammers are doing this to sell Speakers and Projectors out of their cars claiming they are expensive luxury brands:
+
+[https://www.digitaltrends.com/home-theater/dont-be-a-sucker-the-white-van-speaker-scam-explained/](https://www.digitaltrends.com/home-theater/dont-be-a-sucker-the-white-van-speaker-scam-explained/) 
+
+[http://www.avsforum.com/forum/89-speakers/1791698-white-van-speaker-scam-manufacturers.html](http://www.avsforum.com/forum/89-speakers/1791698-white-van-speaker-scam-manufacturers.html
+
+[http://www.avsforum.com/forum/68-digital-projectors-under-3-000-usd-msrp/1314432-white-van-projector-scam.html](http://www.avsforum.com/forum/68-digital-projectors-under-3-000-usd-msrp/1314432-white-van-projector-scam.html)
+
+## DONT BE FOOLED BY THESE SCAMMERS!
+
+They talk a lot to distract you from your senses and pretend to be your friend. They act like they are doing you a favor -- they are trying to cheat you!
+
+![Image](https://imgur.com/a/BHeSn7L)
+
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/orion-hauss-scam/orion-r200-scam/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
