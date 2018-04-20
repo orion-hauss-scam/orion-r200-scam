@@ -20,7 +20,7 @@ This is called the "white van" scam. You can read more about how scammers are do
 
 [https://www.digitaltrends.com/home-theater/dont-be-a-sucker-the-white-van-speaker-scam-explained/](https://www.digitaltrends.com/home-theater/dont-be-a-sucker-the-white-van-speaker-scam-explained/) 
 
-[http://www.avsforum.com/forum/89-speakers/1791698-white-van-speaker-scam-manufacturers.html](http://www.avsforum.com/forum/89-speakers/1791698-white-van-speaker-scam-manufacturers.html
+[http://www.avsforum.com/forum/89-speakers/1791698-white-van-speaker-scam-manufacturers.html](http://www.avsforum.com/forum/89-speakers/1791698-white-van-speaker-scam-manufacturers.html)
 
 [http://www.avsforum.com/forum/68-digital-projectors-under-3-000-usd-msrp/1314432-white-van-projector-scam.html](http://www.avsforum.com/forum/68-digital-projectors-under-3-000-usd-msrp/1314432-white-van-projector-scam.html)
 
@@ -28,6 +28,6 @@ This is called the "white van" scam. You can read more about how scammers are do
 
 They talk a lot to distract you from your senses and pretend to be your friend. They act like they are doing you a favor -- they are trying to cheat you!
 
-![Image](https://imgur.com/a/BHeSn7L)
+![https://imgur.com/a/BHeSn7L](https://imgur.com/a/BHeSn7L)
 
 ```
