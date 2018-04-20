@@ -1,4 +1,4 @@
-![https://imgur.com/a/BHeSn7L](https://i.imgur.com/7xj39Du.jpg)
+![https://imgur.com/a/BHeSn7L](https://i.imgur.com/R4Wd6Qe.jpg?1)
 
 ## Orion Projectors is a scam
 
