@@ -10,7 +10,7 @@ Don't throw away your money on junk thinking you are getting a good deal.
 
 These Chinese versions are made with cheap and dangerous materials.
 
-## The bulb contain mercury and are known to start fires!
+## The bulb contains mercury and are known to start fires!
 
 The reason you cannot find any other information about it besides a FAKE brand website is because these are knock offs. They create a fake brand website to trick you into thinking it is legit. This is FAKE!
 
