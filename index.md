@@ -28,6 +28,8 @@ This is called the "white van" scam. You can read more about how scammers are do
 
 They talk a lot to distract you from your senses and pretend to be your friend. They act like they are doing you a favor -- they are trying to cheat you!
 
-![https://imgur.com/a/BHeSn7L](https://imgur.com/a/BHeSn7L)
+![https://imgur.com/a/BHeSn7L](https://i.imgur.com/7xj39Du.jpg)
+
+[https://imgur.com/a/BHeSn7L](https://imgur.com/a/BHeSn7L)
 
 ```
